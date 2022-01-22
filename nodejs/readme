@@ -1,0 +1,17 @@
+
+-инициализация
+    Фазы
+
+* таймеры
+
+* pending callbacks
+
+* idle, prepare
+
+* poll
+
+* check
+
+*close callbacks
+
+- порверка на окончание
